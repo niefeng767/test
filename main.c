@@ -6,6 +6,7 @@ int main(void)
 	printf("hello3\n");
 	printf("hello4\n");
 	printf("hello5\n");
+	printf("hello6\n");
 
 
 
